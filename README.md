@@ -2,4 +2,4 @@
 
 ![Top Langs](https://github-readme-stats-omega-rosy-96.vercel.app/api/top-langs/?username=lemonAlpha23&layout=compact&show_icons=true)
 
-![paper-radar](https://github-readme-stats-omega-rosy-96.vercel.app/api/pin/?username=lemonAlpha23&repo=paper-radar&show_icons=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lemonAlpha23&theme=default)
