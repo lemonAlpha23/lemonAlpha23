@@ -1,9 +1,7 @@
 # Hi there, I'm lemonAlpha23 👋
 
 <p align="left">
-  <a>
-    <img src="https://profile-counter.glitch.me/lemonAlpha23/count.svg" alt="Visitor Count" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=lemonAlpha23&style=flat-square&color=blue" alt="Visitor Count" />
 </p>
 
 ---
@@ -19,4 +17,3 @@
 ---
 
 <!-- 这里可以添加你更多的个人介绍，例如你的技术栈、正在进行的项目或联系方式 -->
-<!-- 例如：### 🛠 我的技术栈 (Tech Stack) -->
