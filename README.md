@@ -9,9 +9,9 @@
 ### 📊 我的开源数据统计 (My Open Source Stats)
 
 <p align="center">
-  <img src="https://github-readme-stats-omega-rosy-96.vercel.app/api?username=lemonAlpha23&show_icons=true&v=1" alt="lemonAlpha23's GitHub stats" />
+  <img src="https://github-readme-stats-omega-rosy-96.vercel.app/api?username=lemonAlpha23&show_icons=true&v=1" height="165" alt="lemonAlpha23's GitHub stats" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats-omega-rosy-96.vercel.app/api/top-langs/?username=lemonAlpha23&layout=compact&show_icons=true" alt="Top Langs" />
+  <img src="https://github-readme-stats-omega-rosy-96.vercel.app/api/top-langs/?username=lemonAlpha23&layout=compact&show_icons=true" height="165" alt="Top Langs" />
 </p>
 
 ---
