@@ -1,1 +1,1 @@
-![lemonAlpha23's GitHub stats](https://你的Vercel域名/api?username=lemonAlpha23&show_icons=true&v=1)
+![lemonAlpha23's GitHub stats](https://github-readme-stats-omega-rosy-96.vercel.app/api?username=lemonAlpha23&show_icons=true)
